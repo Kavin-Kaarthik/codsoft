@@ -295,7 +295,7 @@ color: #000000;
     gap: 3rem;
 }
 
-.input-box ,
+.input-box input,
  textarea{
 
     width: 100%;
